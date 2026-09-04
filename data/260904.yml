@@ -7,7 +7,7 @@ about:
   head: aadf2e7
   archived: false
   latestVersion: v0.49.0
-  collectedAt: 2026-09-04T19:26:28Z
+  collectedAt: 2026-09-04T21:05:31Z
 timeline:
   created: 2021-03-30
   lastCommit: 2026-08-26
@@ -83,6 +83,44 @@ total:
   openIssue: 11
   commit: 496
 ---
+path: /home/runner/.x-repo/github.com/danvergara/dblab
+collectedAt: 2026-09-04T21:05:33Z
+loc:
+  Go:
+    code: 8568
+    comments: 614
+    blanks: 1439
+    files: 44
+  Yaml:
+    code: 124
+    comments: 0
+    blanks: 8
+    files: 3
+  Makefile:
+    code: 108
+    comments: 33
+    blanks: 33
+    files: 1
+  Sh:
+    code: 20
+    comments: 6
+    blanks: 5
+    files: 1
+  Css:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1423
+    blanks: 525
+    files: 12
+total:
+  code: 8980
+  comments: 2085
+  blanks: 2010
+  files: 62
 ---
 date: "2026-08-24"
 repo:
