@@ -5,7 +5,7 @@ about:
   head: aadf2e7
   archived: false
   latestVersion: "v0.49.0"
-  collectedAt: 2026-09-07T05:05:18Z
+  collectedAt: 2026-09-07T19:30:44Z
 timeline:
   created: 2021-03-30
   lastCommit: 2026-08-26
@@ -82,7 +82,7 @@ total:
   commit: 496
 ---
 path: /home/runner/.x-repo/github.com/danvergara/dblab
-collectedAt: 2026-09-07T05:05:19Z
+collectedAt: 2026-09-07T19:30:46Z
 loc:
   Go:
     code: 8568
@@ -234,7 +234,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:05:20+00:00
+  collectedAt: 2026-09-07T19:30:47+00:00
   platform:
     darwin/arm64:
       name:  dblab_0.49.0_darwin_arm64.tar.gz
