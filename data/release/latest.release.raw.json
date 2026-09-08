@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 12235619,
       "digest": "sha256:557c97b7d85d78ef53ccc3b147d8b19fea14a656792bc8f4c71eb0d081681842",
-      "download_count": 96,
+      "download_count": 97,
       "created_at": "2026-08-27T22:27:31Z",
       "updated_at": "2026-08-27T22:27:33Z",
       "browser_download_url": "https://github.com/danvergara/dblab/releases/download/v0.49.0/dblab_0.49.0_linux_amd64.tar.gz"
