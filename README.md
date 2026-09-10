@@ -23,7 +23,17 @@ x install dblab
 - **Latest**: `v0.50.0` (2026-09-09)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 6
-- **Published**: 2026-09-09T04:10:25Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/danvergara/dblab/releases/download/v0.50.0/checksums.txt) | 494 B | `other` |
+| [dblab_0.50.0_darwin_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.50.0/dblab_0.50.0_darwin_amd64.tar.gz) | 11.7 MiB | `native/darwin/x64` |
+| [dblab_0.50.0_darwin_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.50.0/dblab_0.50.0_darwin_arm64.tar.gz) | 11.2 MiB | `native/darwin/arm64` |
+| [dblab_0.50.0_linux_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.50.0/dblab_0.50.0_linux_amd64.tar.gz) | 11.7 MiB | `native/linux/x64` |
+| [dblab_0.50.0_linux_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.50.0/dblab_0.50.0_linux_arm64.tar.gz) | 10.9 MiB | `native/linux/arm64` |
+| [dblab_0.50.0_windows_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.50.0/dblab_0.50.0_windows_amd64.tar.gz) | 11.7 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -68,8 +78,8 @@ Lowest-scoring checks:
 Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dblab` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/dblab.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/dblab.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:11:24Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:15Z._
