@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 3 | 2 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-28 | 9 | 14 | 0 | 6 | 4 | 13 |
-| 90d | 2026-06-28 | 17 | 31 | 1 | 10 | 9 | 30 |
-| last180d | 2026-03-30 | 28 | 47 | 1 | 12 | 9 | 46 |
-| 360d | 2025-10-01 | 33 | 65 | 1 | 18 | 9 | 65 |
-| last720d | 2024-10-06 | 42 | 91 | 1 | 26 | 9 | 84 |
+| 30d | 2026-08-28 | 2 | 2 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-29 | 9 | 12 | 0 | 4 | 3 | 12 |
+| 90d | 2026-06-29 | 17 | 31 | 1 | 10 | 9 | 27 |
+| last180d | 2026-03-31 | 28 | 46 | 1 | 12 | 9 | 42 |
+| 360d | 2025-10-02 | 33 | 65 | 1 | 18 | 9 | 64 |
+| last720d | 2024-10-07 | 42 | 91 | 1 | 26 | 9 | 84 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:11:33Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:33:42Z._
