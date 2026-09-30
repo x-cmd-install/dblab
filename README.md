@@ -30,7 +30,7 @@ Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 13/30 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,238 · **Forks**: 88 · **Open issues**: 91 · **Contributors**: 18
+- **Stars**: 3,241 · **Forks**: 90 · **Open issues**: 91 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 2 | 2 | 1 | 0 | 0 | 3 |
-| last60d | 2026-07-31 | 8 | 11 | 1 | 4 | 3 | 12 |
-| 90d | 2026-07-01 | 16 | 29 | 2 | 10 | 9 | 27 |
-| last180d | 2026-04-02 | 27 | 46 | 2 | 12 | 9 | 42 |
-| 360d | 2025-10-04 | 33 | 65 | 2 | 18 | 9 | 64 |
-| last720d | 2024-10-09 | 42 | 91 | 2 | 26 | 9 | 84 |
+| 30d | 2026-08-31 | 2 | 2 | 1 | 0 | 0 | 3 |
+| last60d | 2026-08-01 | 8 | 11 | 1 | 4 | 3 | 12 |
+| 90d | 2026-07-02 | 16 | 29 | 2 | 10 | 9 | 27 |
+| last180d | 2026-04-03 | 27 | 46 | 2 | 12 | 9 | 42 |
+| 360d | 2025-10-05 | 33 | 65 | 2 | 18 | 9 | 64 |
+| last720d | 2024-10-10 | 42 | 91 | 2 | 26 | 9 | 84 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:01:02Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:03:29Z._
