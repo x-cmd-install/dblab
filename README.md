@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 264 · **Open PRs**: 3 · **Closed issues**: 81 · **Open issues**: 10 · **Commits**: 499
+- **Releases**: 93 · **Merged PRs**: 264 · **Open PRs**: 2 · **Closed issues**: 81 · **Open issues**: 10 · **Commits**: 499
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 2 | 2 | 2 | 0 | 0 | 3 |
-| last60d | 2026-08-03 | 8 | 11 | 2 | 3 | 3 | 12 |
-| 90d | 2026-07-04 | 16 | 28 | 3 | 10 | 9 | 27 |
-| last180d | 2026-04-05 | 27 | 44 | 3 | 12 | 9 | 42 |
-| 360d | 2025-10-07 | 33 | 65 | 3 | 18 | 9 | 64 |
-| last720d | 2024-10-12 | 42 | 91 | 3 | 26 | 9 | 84 |
+| 30d | 2026-09-03 | 2 | 2 | 1 | 0 | 0 | 3 |
+| last60d | 2026-08-04 | 8 | 11 | 1 | 3 | 3 | 12 |
+| 90d | 2026-07-05 | 15 | 28 | 2 | 10 | 9 | 27 |
+| last180d | 2026-04-06 | 26 | 44 | 2 | 12 | 9 | 42 |
+| 360d | 2025-10-08 | 33 | 64 | 2 | 18 | 9 | 64 |
+| last720d | 2024-10-13 | 42 | 91 | 2 | 26 | 9 | 84 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:53:31Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:39:09Z._
