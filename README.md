@@ -14,11 +14,11 @@ x install dblab
 
 ## Code insight
 
-Total: **9,159** lines of code across **51** files in the top 5 languages.
+Total: **9,171** lines of code across **50** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 8,903 | 633 | 1,509 | 45 |
+| Go | 8,915 | 661 | 1,492 | 44 |
 | Yaml | 124 | 0 | 8 | 3 |
 | Makefile | 108 | 33 | 33 | 1 |
 | Sh | 20 | 6 | 5 | 1 |
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.51.0` (2026-09-25)
-- **Last commit**: 2026-09-25
+- **Latest**: `v0.52.0` (2026-10-05)
+- **Last commit**: 2026-10-05
 - **Assets in release**: 6
 
 ## Popularity
@@ -52,29 +52,29 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 264 · **Open PRs**: 3 · **Closed issues**: 81 · **Open issues**: 10 · **Commits**: 499
+- **Releases**: 94 · **Merged PRs**: 265 · **Open PRs**: 2 · **Closed issues**: 81 · **Open issues**: 10 · **Commits**: 500
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 2 | 1 | 2 | 0 | 0 | 1 |
-| last60d | 2026-08-06 | 6 | 9 | 2 | 3 | 2 | 9 |
-| 90d | 2026-07-07 | 15 | 27 | 3 | 10 | 9 | 24 |
-| last180d | 2026-04-08 | 24 | 41 | 3 | 12 | 9 | 39 |
-| 360d | 2025-10-10 | 33 | 64 | 3 | 18 | 9 | 64 |
-| last720d | 2024-10-15 | 42 | 91 | 3 | 26 | 9 | 84 |
+| 30d | 2026-09-06 | 3 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-08-07 | 6 | 9 | 1 | 3 | 2 | 10 |
+| 90d | 2026-07-08 | 16 | 27 | 2 | 10 | 9 | 25 |
+| last180d | 2026-04-09 | 25 | 42 | 2 | 12 | 9 | 40 |
+| 360d | 2025-10-11 | 34 | 64 | 2 | 18 | 9 | 65 |
+| last720d | 2024-10-16 | 43 | 92 | 2 | 26 | 9 | 85 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/danvergara/dblab/releases/download/v0.51.0/checksums.txt) | 494 B | `other` |
-| [dblab_0.51.0_darwin_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.51.0/dblab_0.51.0_darwin_amd64.tar.gz) | 11.7 MiB | `native/darwin/x64` |
-| [dblab_0.51.0_darwin_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.51.0/dblab_0.51.0_darwin_arm64.tar.gz) | 11.2 MiB | `native/darwin/arm64` |
-| [dblab_0.51.0_linux_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.51.0/dblab_0.51.0_linux_amd64.tar.gz) | 11.7 MiB | `native/linux/x64` |
-| [dblab_0.51.0_linux_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.51.0/dblab_0.51.0_linux_arm64.tar.gz) | 10.9 MiB | `native/linux/arm64` |
-| [dblab_0.51.0_windows_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.51.0/dblab_0.51.0_windows_amd64.tar.gz) | 11.7 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/danvergara/dblab/releases/download/v0.52.0/checksums.txt) | 494 B | `other` |
+| [dblab_0.52.0_darwin_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.52.0/dblab_0.52.0_darwin_amd64.tar.gz) | 11.9 MiB | `native/darwin/x64` |
+| [dblab_0.52.0_darwin_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.52.0/dblab_0.52.0_darwin_arm64.tar.gz) | 11.4 MiB | `native/darwin/arm64` |
+| [dblab_0.52.0_linux_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.52.0/dblab_0.52.0_linux_amd64.tar.gz) | 11.8 MiB | `native/linux/x64` |
+| [dblab_0.52.0_linux_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.52.0/dblab_0.52.0_linux_arm64.tar.gz) | 11.1 MiB | `native/linux/arm64` |
+| [dblab_0.52.0_windows_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.52.0/dblab_0.52.0_windows_amd64.tar.gz) | 11.9 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:54:27Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:44:44Z._
