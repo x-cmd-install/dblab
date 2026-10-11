@@ -14,11 +14,11 @@ x install dblab
 
 ## Code insight
 
-Total: **9,187** lines of code across **50** files in the top 5 languages.
+Total: **9,188** lines of code across **50** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 8,931 | 659 | 1,493 | 44 |
+| Go | 8,932 | 659 | 1,493 | 44 |
 | Yaml | 124 | 0 | 8 | 3 |
 | Makefile | 108 | 33 | 33 | 1 |
 | Sh | 20 | 6 | 5 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.52.1` (2026-10-09)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-11
 - **Assets in release**: 6
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 95 · **Merged PRs**: 267 · **Open PRs**: 2 · **Closed issues**: 82 · **Open issues**: 9 · **Commits**: 502
+- **Releases**: 95 · **Merged PRs**: 268 · **Open PRs**: 3 · **Closed issues**: 82 · **Open issues**: 9 · **Commits**: 503
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 3 | 4 | 1 | 0 | 0 | 4 |
-| last60d | 2026-08-11 | 7 | 9 | 1 | 4 | 1 | 12 |
-| 90d | 2026-07-12 | 17 | 28 | 2 | 11 | 8 | 27 |
-| last180d | 2026-04-13 | 26 | 43 | 2 | 13 | 8 | 42 |
-| 360d | 2025-10-15 | 35 | 65 | 2 | 19 | 8 | 67 |
-| last720d | 2024-10-20 | 44 | 94 | 2 | 27 | 8 | 87 |
+| 30d | 2026-09-11 | 3 | 5 | 2 | 0 | 0 | 5 |
+| last60d | 2026-08-12 | 7 | 10 | 2 | 4 | 1 | 8 |
+| 90d | 2026-07-13 | 17 | 27 | 3 | 11 | 8 | 26 |
+| last180d | 2026-04-14 | 26 | 43 | 3 | 13 | 8 | 41 |
+| 360d | 2025-10-16 | 35 | 64 | 3 | 19 | 8 | 55 |
+| last720d | 2024-10-21 | 44 | 95 | 3 | 27 | 8 | 88 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:03:13Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:03:24Z._
