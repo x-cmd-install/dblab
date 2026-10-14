@@ -26,13 +26,13 @@ Total: **9,188** lines of code across **50** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.2 / 10**
+Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,242 · **Forks**: 91 · **Open issues**: 91 · **Contributors**: 18
+- **Stars**: 3,241 · **Forks**: 91 · **Open issues**: 91 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 3 | 5 | 2 | 0 | 0 | 5 |
-| last60d | 2026-08-14 | 7 | 9 | 2 | 4 | 1 | 8 |
-| 90d | 2026-07-15 | 14 | 26 | 3 | 11 | 8 | 26 |
-| last180d | 2026-04-16 | 25 | 42 | 3 | 13 | 8 | 41 |
-| 360d | 2025-10-18 | 34 | 59 | 3 | 17 | 8 | 55 |
-| last720d | 2024-10-23 | 44 | 94 | 3 | 26 | 8 | 88 |
+| 30d | 2026-09-14 | 3 | 5 | 2 | 0 | 0 | 5 |
+| last60d | 2026-08-15 | 6 | 9 | 2 | 2 | 1 | 8 |
+| 90d | 2026-07-16 | 14 | 26 | 3 | 11 | 8 | 26 |
+| last180d | 2026-04-17 | 25 | 42 | 3 | 12 | 8 | 41 |
+| 360d | 2025-10-19 | 34 | 59 | 3 | 17 | 8 | 55 |
+| last720d | 2024-10-24 | 44 | 94 | 3 | 26 | 8 | 87 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:10:45Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:21:23Z._
