@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,243 · **Forks**: 92 · **Open issues**: 91 · **Contributors**: 18
+- **Stars**: 3,244 · **Forks**: 92 · **Open issues**: 91 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 4 | 6 | 5 | 0 | 0 | 6 |
-| last60d | 2026-08-22 | 6 | 8 | 5 | 1 | 0 | 9 |
-| 90d | 2026-07-23 | 13 | 24 | 6 | 7 | 4 | 20 |
-| last180d | 2026-04-24 | 26 | 43 | 6 | 12 | 8 | 42 |
-| 360d | 2025-10-26 | 33 | 57 | 6 | 16 | 8 | 56 |
-| last720d | 2024-10-31 | 44 | 92 | 6 | 26 | 8 | 86 |
+| 30d | 2026-09-22 | 4 | 6 | 5 | 0 | 0 | 6 |
+| last60d | 2026-08-23 | 6 | 8 | 5 | 1 | 0 | 9 |
+| 90d | 2026-07-24 | 13 | 21 | 6 | 7 | 3 | 20 |
+| last180d | 2026-04-25 | 26 | 43 | 6 | 12 | 8 | 42 |
+| 360d | 2025-10-27 | 33 | 57 | 6 | 16 | 8 | 56 |
+| last720d | 2024-11-01 | 44 | 92 | 6 | 26 | 8 | 86 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:00:31Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:01:00Z._
