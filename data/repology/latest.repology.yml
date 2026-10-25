@@ -1,3 +1,25 @@
+- repo: nix_stable_25_05
+  srcname: dblab
+  visiblename: dblab
+  version: 0.32.0
+  origversion: null
+  status: outdated
+  summary: Database client every command line junkie deserves
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: dblab
+  visiblename: dblab
+  version: 0.34.2
+  origversion: null
+  status: outdated
+  summary: Database client every command line junkie deserves
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
 - repo: aur
   srcname: dblab
   binname: dblab
@@ -41,9 +63,9 @@
   srcname: databases/dblab
   binname: dblab
   visiblename: dblab
-  version: 0.52.0
+  version: 0.53.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Interactive client for PostgreSQL and MySQL
   maintainers:
     - herbygillot@github
@@ -66,28 +88,6 @@
   srcname: dblab
   visiblename: dblab
   version: 0.26.0
-  origversion: null
-  status: outdated
-  summary: Database client every command line junkie deserves
-  maintainers:
-    - 7rat13@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: dblab
-  visiblename: dblab
-  version: 0.32.0
-  origversion: null
-  status: outdated
-  summary: Database client every command line junkie deserves
-  maintainers:
-    - 7rat13@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: dblab
-  visiblename: dblab
-  version: 0.34.2
   origversion: null
   status: outdated
   summary: Database client every command line junkie deserves
