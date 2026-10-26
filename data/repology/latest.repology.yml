@@ -1,23 +1,12 @@
-- repo: nix_stable_25_05
+- repo: nix_unstable
   srcname: dblab
   visiblename: dblab
-  version: 0.32.0
+  version: 0.53.0
   origversion: null
   status: outdated
   summary: Database client every command line junkie deserves
   maintainers:
-    - 7rat13@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: dblab
-  visiblename: dblab
-  version: 0.34.2
-  origversion: null
-  status: outdated
-  summary: Database client every command line junkie deserves
-  maintainers:
-    - 7rat13@gmail.com
+    - iamanaws@httpd.dev
   licenses:
     - MIT
 - repo: aur
@@ -36,8 +25,8 @@
   srcname: dblab-bin
   binname: dblab-bin
   visiblename: dblab-bin
-  version: 0.53.0
-  origversion: 0.53.0-1
+  version: 0.54.0
+  origversion: 0.54.0-1
   status: newest
   summary: Interactive client for PostgreSQL, MySQL, SQLite3, Oracle and SQL Server
   maintainers:
@@ -48,7 +37,7 @@
 - repo: homebrew
   srcname: dblab
   visiblename: dblab
-  version: 0.53.0
+  version: 0.54.0
   origversion: null
   status: newest
   summary: Database client every command-line junkie deserves
@@ -65,7 +54,7 @@
   visiblename: dblab
   version: 0.53.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Interactive client for PostgreSQL and MySQL
   maintainers:
     - herbygillot@github
@@ -95,23 +84,34 @@
     - 7rat13@gmail.com
   licenses:
     - MIT
+- repo: nix_stable_25_05
+  srcname: dblab
+  visiblename: dblab
+  version: 0.32.0
+  origversion: null
+  status: outdated
+  summary: Database client every command line junkie deserves
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: dblab
+  visiblename: dblab
+  version: 0.34.2
+  origversion: null
+  status: outdated
+  summary: Database client every command line junkie deserves
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: dblab
   visiblename: dblab
   version: 0.39.0
   origversion: null
   status: outdated
-  summary: Database client every command line junkie deserves
-  maintainers:
-    - iamanaws@httpd.dev
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: dblab
-  visiblename: dblab
-  version: 0.53.0
-  origversion: null
-  status: newest
   summary: Database client every command line junkie deserves
   maintainers:
     - iamanaws@httpd.dev
