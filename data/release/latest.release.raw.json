@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12971448,
       "digest": "sha256:1b4569cb55c4a831a45d55fe99c2b05ab01af77d39f425e8a5379930adffa5e5",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-10-25T16:41:06Z",
       "updated_at": "2026-10-25T16:41:07Z",
       "browser_download_url": "https://github.com/danvergara/dblab/releases/download/v0.54.0/dblab_0.54.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12488478,
       "digest": "sha256:5dafde2b358c8ae323f14d077156d7c9ac8aaead0c38a19a72876a8a50f1b9cf",
-      "download_count": 43,
+      "download_count": 53,
       "created_at": "2026-10-25T16:41:07Z",
       "updated_at": "2026-10-25T16:41:08Z",
       "browser_download_url": "https://github.com/danvergara/dblab/releases/download/v0.54.0/dblab_0.54.0_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13028794,
       "digest": "sha256:9703d1562bc2326ca39b61bf82658e1e3af1b03f68e74176c2ea758c84fac68d",
-      "download_count": 66,
+      "download_count": 78,
       "created_at": "2026-10-25T16:41:06Z",
       "updated_at": "2026-10-25T16:41:07Z",
       "browser_download_url": "https://github.com/danvergara/dblab/releases/download/v0.54.0/dblab_0.54.0_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13014644,
       "digest": "sha256:438ac060ed1c76c94c946e1a300a18479dba553923251d77dcef927eb5da04aa",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-10-25T16:41:06Z",
       "updated_at": "2026-10-25T16:41:07Z",
       "browser_download_url": "https://github.com/danvergara/dblab/releases/download/v0.54.0/dblab_0.54.0_windows_amd64.tar.gz"
