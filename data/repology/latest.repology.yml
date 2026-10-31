@@ -1,3 +1,17 @@
+- repo: homebrew
+  srcname: dblab
+  visiblename: dblab
+  version: 0.54.0
+  origversion: null
+  status: newest
+  summary: Database client every command-line junkie deserves
+- repo: homebrew
+  srcname: dblab
+  visiblename: dblab
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Database client every command-line junkie deserves
 - repo: aur
   srcname: dblab
   binname: dblab
@@ -23,20 +37,6 @@
     - dominiquini@aur
   licenses:
     - MIT
-- repo: homebrew
-  srcname: dblab
-  visiblename: dblab
-  version: 0.54.0
-  origversion: null
-  status: newest
-  summary: Database client every command-line junkie deserves
-- repo: homebrew
-  srcname: dblab
-  visiblename: dblab
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Database client every command-line junkie deserves
 - repo: macports
   srcname: databases/dblab
   binname: dblab
@@ -109,9 +109,9 @@
 - repo: nix_unstable
   srcname: dblab
   visiblename: dblab
-  version: 0.53.0
+  version: 0.54.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Database client every command line junkie deserves
   maintainers:
     - iamanaws@httpd.dev
