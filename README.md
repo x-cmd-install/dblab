@@ -14,11 +14,11 @@ x install dblab
 
 ## Code insight
 
-Total: **10,042** lines of code across **51** files in the top 5 languages.
+Total: **10,094** lines of code across **51** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 9,776 | 671 | 1,547 | 45 |
+| Go | 9,828 | 682 | 1,556 | 45 |
 | Yaml | 124 | 0 | 8 | 3 |
 | Makefile | 118 | 35 | 35 | 1 |
 | Sh | 20 | 6 | 5 | 1 |
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.54.0` (2026-10-25)
-- **Last commit**: 2026-10-25
+- **Latest**: `v0.55.0` (2026-11-04)
+- **Last commit**: 2026-11-04
 - **Assets in release**: 6
 
 ## Popularity
@@ -52,38 +52,38 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 97 · **Merged PRs**: 271 · **Open PRs**: 6 · **Closed issues**: 84 · **Open issues**: 8 · **Commits**: 506
+- **Releases**: 98 · **Merged PRs**: 272 · **Open PRs**: 5 · **Closed issues**: 84 · **Open issues**: 8 · **Commits**: 507
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 4 | 6 | 6 | 0 | 1 | 6 |
-| last60d | 2026-09-04 | 6 | 8 | 6 | 0 | 1 | 8 |
-| 90d | 2026-08-05 | 12 | 18 | 6 | 4 | 3 | 17 |
-| last180d | 2026-05-07 | 27 | 44 | 6 | 13 | 8 | 44 |
-| 360d | 2025-11-08 | 34 | 59 | 6 | 17 | 8 | 58 |
-| last720d | 2024-11-13 | 43 | 90 | 6 | 27 | 8 | 84 |
+| 30d | 2026-10-05 | 5 | 7 | 4 | 0 | 1 | 7 |
+| last60d | 2026-09-05 | 7 | 9 | 5 | 0 | 1 | 9 |
+| 90d | 2026-08-06 | 11 | 17 | 5 | 4 | 2 | 18 |
+| last180d | 2026-05-08 | 28 | 45 | 5 | 13 | 8 | 45 |
+| 360d | 2025-11-09 | 35 | 60 | 5 | 17 | 8 | 59 |
+| last720d | 2024-11-14 | 44 | 91 | 5 | 27 | 8 | 85 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/danvergara/dblab/releases/download/v0.54.0/checksums.txt) | 494 B | `other` |
-| [dblab_0.54.0_darwin_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.54.0/dblab_0.54.0_darwin_amd64.tar.gz) | 12.4 MiB | `native/darwin/x64` |
-| [dblab_0.54.0_darwin_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.54.0/dblab_0.54.0_darwin_arm64.tar.gz) | 11.9 MiB | `native/darwin/arm64` |
-| [dblab_0.54.0_linux_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.54.0/dblab_0.54.0_linux_amd64.tar.gz) | 12.4 MiB | `native/linux/x64` |
-| [dblab_0.54.0_linux_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.54.0/dblab_0.54.0_linux_arm64.tar.gz) | 11.7 MiB | `native/linux/arm64` |
-| [dblab_0.54.0_windows_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.54.0/dblab_0.54.0_windows_amd64.tar.gz) | 12.4 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/danvergara/dblab/releases/download/v0.55.0/checksums.txt) | 494 B | `other` |
+| [dblab_0.55.0_darwin_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.0/dblab_0.55.0_darwin_amd64.tar.gz) | 12.4 MiB | `native/darwin/x64` |
+| [dblab_0.55.0_darwin_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.0/dblab_0.55.0_darwin_arm64.tar.gz) | 11.9 MiB | `native/darwin/arm64` |
+| [dblab_0.55.0_linux_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.0/dblab_0.55.0_linux_amd64.tar.gz) | 12.4 MiB | `native/linux/x64` |
+| [dblab_0.55.0_linux_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.0/dblab_0.55.0_linux_arm64.tar.gz) | 11.7 MiB | `native/linux/arm64` |
+| [dblab_0.55.0_windows_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.0/dblab_0.55.0_windows_amd64.tar.gz) | 12.4 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/dblab). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/dblab). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.54.0` | ✅ latest |
-| Nix unstable | `0.54.0` | ✅ latest |
+| Homebrew | `0.55.0` | ✅ latest |
+| Nix unstable | `0.54.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -94,4 +94,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:04:40Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:39:57Z._
