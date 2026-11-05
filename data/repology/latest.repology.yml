@@ -1,3 +1,28 @@
+- repo: homebrew
+  srcname: dblab
+  visiblename: dblab
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Database client every command-line junkie deserves
+- repo: homebrew
+  srcname: dblab
+  visiblename: dblab
+  version: 0.55.0
+  origversion: null
+  status: outdated
+  summary: Database client every command-line junkie deserves
+- repo: nix_unstable
+  srcname: dblab
+  visiblename: dblab
+  version: 0.54.0
+  origversion: null
+  status: outdated
+  summary: Database client every command line junkie deserves
+  maintainers:
+    - iamanaws@httpd.dev
+  licenses:
+    - MIT
 - repo: aur
   srcname: dblab
   binname: dblab
@@ -14,8 +39,8 @@
   srcname: dblab-bin
   binname: dblab-bin
   visiblename: dblab-bin
-  version: 0.55.0
-  origversion: 0.55.0-1
+  version: 0.55.1
+  origversion: 0.55.1-1
   status: newest
   summary: Interactive client for PostgreSQL, MySQL, SQLite3, Oracle and SQL Server
   maintainers:
@@ -23,27 +48,13 @@
     - dominiquini@aur
   licenses:
     - MIT
-- repo: homebrew
-  srcname: dblab
-  visiblename: dblab
-  version: 0.55.0
-  origversion: null
-  status: newest
-  summary: Database client every command-line junkie deserves
-- repo: homebrew
-  srcname: dblab
-  visiblename: dblab
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Database client every command-line junkie deserves
 - repo: macports
   srcname: databases/dblab
   binname: dblab
   visiblename: dblab
-  version: 0.54.0
+  version: 0.55.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Interactive client for PostgreSQL and MySQL
   maintainers:
     - herbygillot@github
@@ -99,17 +110,6 @@
   srcname: dblab
   visiblename: dblab
   version: 0.39.0
-  origversion: null
-  status: outdated
-  summary: Database client every command line junkie deserves
-  maintainers:
-    - iamanaws@httpd.dev
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: dblab
-  visiblename: dblab
-  version: 0.54.0
   origversion: null
   status: outdated
   summary: Database client every command line junkie deserves
