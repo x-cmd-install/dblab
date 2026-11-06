@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 5 | 8 | 4 | 0 | 1 | 8 |
-| last60d | 2026-09-06 | 8 | 10 | 5 | 0 | 1 | 10 |
-| 90d | 2026-08-07 | 11 | 17 | 5 | 4 | 2 | 19 |
-| last180d | 2026-05-09 | 29 | 46 | 5 | 13 | 8 | 46 |
-| 360d | 2025-11-10 | 36 | 61 | 5 | 17 | 8 | 60 |
-| last720d | 2024-11-15 | 45 | 91 | 5 | 27 | 8 | 86 |
+| 30d | 2026-10-07 | 5 | 8 | 4 | 0 | 1 | 8 |
+| last60d | 2026-09-07 | 8 | 10 | 5 | 0 | 1 | 10 |
+| 90d | 2026-08-08 | 11 | 17 | 5 | 4 | 2 | 19 |
+| last180d | 2026-05-10 | 29 | 46 | 5 | 13 | 8 | 46 |
+| 360d | 2025-11-11 | 36 | 61 | 5 | 17 | 8 | 60 |
+| last720d | 2024-11-16 | 45 | 91 | 5 | 27 | 8 | 86 |
 
 ## Release assets
 
@@ -78,11 +78,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/dblab). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/dblab). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `0.55.1` | ✅ latest |
 | Nix unstable | `0.54.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -94,4 +94,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:03:42Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:07:44Z._
