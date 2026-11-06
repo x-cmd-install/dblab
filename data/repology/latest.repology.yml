@@ -1,26 +1,12 @@
-- repo: homebrew
+- repo: nix_stable_24_11
   srcname: dblab
   visiblename: dblab
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Database client every command-line junkie deserves
-- repo: homebrew
-  srcname: dblab
-  visiblename: dblab
-  version: 0.55.0
-  origversion: null
-  status: outdated
-  summary: Database client every command-line junkie deserves
-- repo: nix_unstable
-  srcname: dblab
-  visiblename: dblab
-  version: 0.54.0
+  version: 0.26.0
   origversion: null
   status: outdated
   summary: Database client every command line junkie deserves
   maintainers:
-    - iamanaws@httpd.dev
+    - 7rat13@gmail.com
   licenses:
     - MIT
 - repo: aur
@@ -48,6 +34,20 @@
     - dominiquini@aur
   licenses:
     - MIT
+- repo: homebrew
+  srcname: dblab
+  visiblename: dblab
+  version: 0.55.1
+  origversion: null
+  status: newest
+  summary: Database client every command-line junkie deserves
+- repo: homebrew
+  srcname: dblab
+  visiblename: dblab
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Database client every command-line junkie deserves
 - repo: macports
   srcname: databases/dblab
   binname: dblab
@@ -69,17 +69,6 @@
   origversion: null
   status: outdated
   summary: The database client every command line junkie deserves
-  maintainers:
-    - 7rat13@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: dblab
-  visiblename: dblab
-  version: 0.26.0
-  origversion: null
-  status: outdated
-  summary: Database client every command line junkie deserves
   maintainers:
     - 7rat13@gmail.com
   licenses:
@@ -110,6 +99,17 @@
   srcname: dblab
   visiblename: dblab
   version: 0.39.0
+  origversion: null
+  status: outdated
+  summary: Database client every command line junkie deserves
+  maintainers:
+    - iamanaws@httpd.dev
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: dblab
+  visiblename: dblab
+  version: 0.54.0
   origversion: null
   status: outdated
   summary: Database client every command line junkie deserves
