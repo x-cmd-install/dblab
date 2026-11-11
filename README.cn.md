@@ -14,11 +14,11 @@ x install dblab
 
 ## 代码洞察
 
-合计: **10,159** 行代码（覆盖前 5 种语言、共 **51** 个文件）。
+合计: **10,144** 行代码（覆盖前 5 种语言、共 **51** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 9,893 | 690 | 1,569 | 45 |
+| Go | 9,878 | 696 | 1,570 | 45 |
 | Yaml | 124 | 0 | 8 | 3 |
 | Makefile | 118 | 35 | 35 | 1 |
 | Sh | 20 | 6 | 5 | 1 |
@@ -42,47 +42,47 @@ x install dblab
 
 ## 发布
 
-- **最新版本**: `v0.55.1` (2026-11-04)
-- **最近提交**: 2026-11-04
+- **最新版本**: `v0.55.2` (2026-11-10)
+- **最近提交**: 2026-11-10
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 3,246 · **Fork**: 92 · **开放 issue**: 92 · **贡献者**: 18
+- **Star**: 3,245 · **Fork**: 92 · **开放 issue**: 92 · **贡献者**: 18
 
 ## 累计统计
 
-- **发布数**: 99 · **已合并 PR**: 273 · **开放 PR**: 6 · **已关闭 issue**: 84 · **开放 issue**: 8 · **提交数**: 508
+- **发布数**: 100 · **已合并 PR**: 274 · **开放 PR**: 5 · **已关闭 issue**: 84 · **开放 issue**: 8 · **提交数**: 509
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 4 | 5 | 4 | 0 | 1 | 4 |
-| last60d | 2026-09-11 | 7 | 10 | 6 | 0 | 1 | 10 |
-| 90d | 2026-08-12 | 11 | 15 | 6 | 4 | 2 | 14 |
-| last180d | 2026-05-14 | 29 | 46 | 6 | 12 | 8 | 46 |
-| 360d | 2025-11-15 | 36 | 61 | 6 | 17 | 8 | 60 |
-| last720d | 2024-11-20 | 44 | 91 | 6 | 27 | 8 | 85 |
+| 30d | 2026-10-12 | 5 | 6 | 3 | 0 | 1 | 5 |
+| last60d | 2026-09-12 | 8 | 11 | 5 | 0 | 1 | 11 |
+| 90d | 2026-08-13 | 12 | 15 | 5 | 4 | 2 | 15 |
+| last180d | 2026-05-15 | 30 | 47 | 5 | 12 | 8 | 47 |
+| 360d | 2025-11-16 | 37 | 62 | 5 | 17 | 8 | 61 |
+| last720d | 2024-11-21 | 45 | 92 | 5 | 27 | 8 | 86 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/danvergara/dblab/releases/download/v0.55.1/checksums.txt) | 494 B | `other` |
-| [dblab_0.55.1_darwin_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.1/dblab_0.55.1_darwin_amd64.tar.gz) | 12.4 MiB | `native/darwin/x64` |
-| [dblab_0.55.1_darwin_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.1/dblab_0.55.1_darwin_arm64.tar.gz) | 11.9 MiB | `native/darwin/arm64` |
-| [dblab_0.55.1_linux_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.1/dblab_0.55.1_linux_amd64.tar.gz) | 12.4 MiB | `native/linux/x64` |
-| [dblab_0.55.1_linux_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.1/dblab_0.55.1_linux_arm64.tar.gz) | 11.7 MiB | `native/linux/arm64` |
-| [dblab_0.55.1_windows_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.1/dblab_0.55.1_windows_amd64.tar.gz) | 12.4 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/danvergara/dblab/releases/download/v0.55.2/checksums.txt) | 494 B | `other` |
+| [dblab_0.55.2_darwin_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.2/dblab_0.55.2_darwin_amd64.tar.gz) | 12.4 MiB | `native/darwin/x64` |
+| [dblab_0.55.2_darwin_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.2/dblab_0.55.2_darwin_arm64.tar.gz) | 11.9 MiB | `native/darwin/arm64` |
+| [dblab_0.55.2_linux_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.2/dblab_0.55.2_linux_amd64.tar.gz) | 12.4 MiB | `native/linux/x64` |
+| [dblab_0.55.2_linux_arm64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.2/dblab_0.55.2_linux_arm64.tar.gz) | 11.7 MiB | `native/linux/arm64` |
+| [dblab_0.55.2_windows_amd64.tar.gz](https://github.com/danvergara/dblab/releases/download/v0.55.2/dblab_0.55.2_windows_amd64.tar.gz) | 12.4 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/dblab) 上共有 **11** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/dblab) 上共有 **11** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**8** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.55.1` | ✅ latest |
+| Homebrew | `0.55.2` | ✅ latest |
 | Nix unstable | `0.54.0` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -94,4 +94,4 @@ dblab 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T07:35:34Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T06:43:19Z._
