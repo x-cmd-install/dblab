@@ -1,3 +1,14 @@
+- repo: nix_stable_25_05
+  srcname: dblab
+  visiblename: dblab
+  version: 0.32.0
+  origversion: null
+  status: outdated
+  summary: Database client every command line junkie deserves
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
 - repo: aur
   srcname: dblab
   binname: dblab
@@ -73,17 +84,6 @@
     - 7rat13@gmail.com
   licenses:
     - MIT
-- repo: nix_stable_25_05
-  srcname: dblab
-  visiblename: dblab
-  version: 0.32.0
-  origversion: null
-  status: outdated
-  summary: Database client every command line junkie deserves
-  maintainers:
-    - 7rat13@gmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_25_11
   srcname: dblab
   visiblename: dblab
@@ -109,7 +109,7 @@
 - repo: nix_unstable
   srcname: dblab
   visiblename: dblab
-  version: 0.54.0
+  version: 0.55.1
   origversion: null
   status: outdated
   summary: Database client every command line junkie deserves
