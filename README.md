@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,245 · **Forks**: 92 · **Open issues**: 92 · **Contributors**: 18
+- **Stars**: 3,248 · **Forks**: 92 · **Open issues**: 92 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 5 | 5 | 3 | 0 | 1 | 5 |
-| last60d | 2026-09-15 | 8 | 11 | 5 | 0 | 1 | 11 |
-| 90d | 2026-08-16 | 11 | 14 | 5 | 1 | 2 | 15 |
-| last180d | 2026-05-18 | 30 | 47 | 5 | 12 | 8 | 47 |
-| 360d | 2025-11-19 | 37 | 62 | 5 | 17 | 8 | 61 |
-| last720d | 2024-11-24 | 45 | 92 | 5 | 27 | 8 | 86 |
+| 30d | 2026-10-16 | 4 | 5 | 2 | 0 | 1 | 5 |
+| last60d | 2026-09-16 | 8 | 11 | 5 | 0 | 1 | 11 |
+| 90d | 2026-08-17 | 11 | 14 | 5 | 1 | 2 | 14 |
+| last180d | 2026-05-19 | 30 | 47 | 5 | 12 | 8 | 43 |
+| 360d | 2025-11-20 | 37 | 62 | 5 | 17 | 8 | 61 |
+| last720d | 2024-11-25 | 45 | 92 | 5 | 27 | 8 | 86 |
 
 ## Release assets
 
@@ -78,7 +78,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/dblab). **2** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/dblab). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,4 +94,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:49:23Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:04:04Z._
