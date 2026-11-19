@@ -24,16 +24,6 @@ x install dblab
 | Sh | 20 | 6 | 5 | 1 |
 | Css | 4 | 0 | 0 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.3 / 10**
-
-评分最低的几项:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/danvergara/dblab>
@@ -48,7 +38,7 @@ x install dblab
 
 ## 流行度
 
-- **Star**: 3,249 · **Fork**: 92 · **开放 issue**: 92 · **贡献者**: 18
+- **Star**: 3,247 · **Fork**: 92 · **开放 issue**: 92 · **贡献者**: 18
 
 ## 累计统计
 
@@ -58,12 +48,12 @@ x install dblab
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 5 | 2 | 0 | 1 | 5 |
-| last60d | 2026-09-17 | 8 | 11 | 5 | 0 | 1 | 11 |
-| 90d | 2026-08-18 | 10 | 13 | 5 | 1 | 1 | 14 |
-| last180d | 2026-05-20 | 30 | 47 | 5 | 12 | 8 | 43 |
-| 360d | 2025-11-21 | 37 | 62 | 5 | 17 | 8 | 61 |
-| last720d | 2024-11-26 | 45 | 92 | 5 | 27 | 8 | 86 |
+| 30d | 2026-10-20 | 4 | 4 | 1 | 0 | 1 | 5 |
+| last60d | 2026-09-20 | 8 | 11 | 5 | 0 | 1 | 11 |
+| 90d | 2026-08-21 | 10 | 13 | 5 | 1 | 1 | 14 |
+| last180d | 2026-05-23 | 29 | 47 | 5 | 12 | 8 | 43 |
+| 360d | 2025-11-24 | 37 | 62 | 5 | 17 | 8 | 61 |
+| last720d | 2024-11-29 | 45 | 92 | 5 | 27 | 8 | 86 |
 
 ## Release 资产
 
@@ -94,4 +84,4 @@ dblab 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T06:54:22Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:26:24Z._

@@ -24,16 +24,6 @@ Total: **10,144** lines of code across **51** files in the top 5 languages.
 | Sh | 20 | 6 | 5 | 1 |
 | Css | 4 | 0 | 0 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.3 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Source
 
 - **Upstream**: <https://github.com/danvergara/dblab>
@@ -48,7 +38,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,249 · **Forks**: 92 · **Open issues**: 92 · **Contributors**: 18
+- **Stars**: 3,247 · **Forks**: 92 · **Open issues**: 92 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -58,12 +48,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 4 | 5 | 2 | 0 | 1 | 5 |
-| last60d | 2026-09-17 | 8 | 11 | 5 | 0 | 1 | 11 |
-| 90d | 2026-08-18 | 10 | 13 | 5 | 1 | 1 | 14 |
-| last180d | 2026-05-20 | 30 | 47 | 5 | 12 | 8 | 43 |
-| 360d | 2025-11-21 | 37 | 62 | 5 | 17 | 8 | 61 |
-| last720d | 2024-11-26 | 45 | 92 | 5 | 27 | 8 | 86 |
+| 30d | 2026-10-20 | 4 | 4 | 1 | 0 | 1 | 5 |
+| last60d | 2026-09-20 | 8 | 11 | 5 | 0 | 1 | 11 |
+| 90d | 2026-08-21 | 10 | 13 | 5 | 1 | 1 | 14 |
+| last180d | 2026-05-23 | 29 | 47 | 5 | 12 | 8 | 43 |
+| 360d | 2025-11-24 | 37 | 62 | 5 | 17 | 8 | 61 |
+| last720d | 2024-11-29 | 45 | 92 | 5 | 27 | 8 | 86 |
 
 ## Release assets
 
@@ -94,4 +84,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:54:22Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:26:24Z._
