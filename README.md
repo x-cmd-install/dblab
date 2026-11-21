@@ -48,12 +48,12 @@ Total: **10,144** lines of code across **51** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 4 | 4 | 1 | 0 | 1 | 5 |
-| last60d | 2026-09-21 | 8 | 11 | 5 | 0 | 1 | 11 |
-| 90d | 2026-08-22 | 10 | 13 | 5 | 1 | 1 | 14 |
-| last180d | 2026-05-24 | 29 | 45 | 5 | 12 | 8 | 43 |
-| 360d | 2025-11-25 | 37 | 62 | 5 | 17 | 8 | 61 |
-| last720d | 2024-11-30 | 45 | 92 | 5 | 27 | 8 | 86 |
+| 30d | 2026-10-22 | 4 | 4 | 1 | 0 | 1 | 5 |
+| last60d | 2026-09-22 | 8 | 11 | 5 | 0 | 1 | 11 |
+| 90d | 2026-08-23 | 10 | 13 | 5 | 1 | 1 | 14 |
+| last180d | 2026-05-25 | 28 | 44 | 5 | 12 | 8 | 43 |
+| 360d | 2025-11-26 | 37 | 62 | 5 | 17 | 8 | 61 |
+| last720d | 2024-12-01 | 45 | 92 | 5 | 27 | 8 | 86 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:31:15Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:23:45Z._
