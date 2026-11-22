@@ -24,6 +24,16 @@ Total: **10,144** lines of code across **51** files in the top 5 languages.
 | Sh | 20 | 6 | 5 | 1 |
 | Css | 4 | 0 | 0 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+
 ## Source
 
 - **Upstream**: <https://github.com/danvergara/dblab>
@@ -38,7 +48,7 @@ Total: **10,144** lines of code across **51** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,246 · **Forks**: 92 · **Open issues**: 92 · **Contributors**: 18
+- **Stars**: 3,247 · **Forks**: 92 · **Open issues**: 92 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -48,12 +58,12 @@ Total: **10,144** lines of code across **51** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 4 | 4 | 1 | 0 | 1 | 5 |
-| last60d | 2026-09-22 | 8 | 11 | 5 | 0 | 1 | 11 |
-| 90d | 2026-08-23 | 10 | 13 | 5 | 1 | 1 | 14 |
-| last180d | 2026-05-25 | 28 | 44 | 5 | 12 | 8 | 43 |
-| 360d | 2025-11-26 | 37 | 62 | 5 | 17 | 8 | 61 |
-| last720d | 2024-12-01 | 45 | 92 | 5 | 27 | 8 | 86 |
+| 30d | 2026-10-23 | 4 | 4 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-23 | 8 | 11 | 5 | 0 | 1 | 10 |
+| 90d | 2026-08-24 | 10 | 13 | 5 | 0 | 1 | 13 |
+| last180d | 2026-05-26 | 27 | 44 | 5 | 12 | 8 | 42 |
+| 360d | 2025-11-27 | 37 | 62 | 5 | 17 | 8 | 61 |
+| last720d | 2024-12-02 | 45 | 92 | 5 | 27 | 8 | 86 |
 
 ## Release assets
 
@@ -84,4 +94,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:23:45Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:26:54Z._
