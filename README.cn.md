@@ -24,16 +24,6 @@ x install dblab
 | Sh | 20 | 6 | 5 | 1 |
 | Css | 4 | 0 | 0 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.2 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/danvergara/dblab>
@@ -48,22 +38,22 @@ x install dblab
 
 ## 流行度
 
-- **Star**: 3,248 · **Fork**: 92 · **开放 issue**: 92 · **贡献者**: 18
+- **Star**: 3,247 · **Fork**: 92 · **开放 issue**: 92 · **贡献者**: 18
 
 ## 累计统计
 
-- **发布数**: 100 · **已合并 PR**: 274 · **开放 PR**: 5 · **已关闭 issue**: 84 · **开放 issue**: 8 · **提交数**: 509
+- **发布数**: 100 · **已合并 PR**: 274 · **开放 PR**: 4 · **已关闭 issue**: 84 · **开放 issue**: 8 · **提交数**: 509
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 4 | 3 | 1 | 0 | 0 | 3 |
-| last60d | 2026-09-24 | 8 | 11 | 5 | 0 | 1 | 10 |
-| 90d | 2026-08-25 | 10 | 13 | 5 | 0 | 1 | 13 |
-| last180d | 2026-05-27 | 27 | 43 | 5 | 12 | 8 | 42 |
-| 360d | 2025-11-28 | 37 | 62 | 5 | 15 | 8 | 61 |
-| last720d | 2024-12-03 | 45 | 92 | 5 | 27 | 8 | 86 |
+| 30d | 2026-10-25 | 4 | 3 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-25 | 8 | 10 | 4 | 0 | 1 | 10 |
+| 90d | 2026-08-26 | 10 | 13 | 4 | 0 | 1 | 13 |
+| last180d | 2026-05-28 | 27 | 42 | 4 | 12 | 8 | 42 |
+| 360d | 2025-11-29 | 37 | 62 | 4 | 15 | 8 | 61 |
+| last720d | 2024-12-04 | 45 | 92 | 4 | 27 | 8 | 86 |
 
 ## Release 资产
 
@@ -78,12 +68,12 @@ x install dblab
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/dblab) 上共有 **11** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/dblab) 上共有 **11** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Homebrew | `0.55.2` | ✅ latest |
-| Nix unstable | `0.55.1` | ⚠️ outdated |
+| Nix unstable | `0.55.2` | ✅ latest |
 
 ## 改进这些数据
 
@@ -94,4 +84,4 @@ dblab 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T09:40:27Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:05:29Z._

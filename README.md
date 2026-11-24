@@ -24,16 +24,6 @@ Total: **10,144** lines of code across **51** files in the top 5 languages.
 | Sh | 20 | 6 | 5 | 1 |
 | Css | 4 | 0 | 0 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## Source
 
 - **Upstream**: <https://github.com/danvergara/dblab>
@@ -48,22 +38,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,248 · **Forks**: 92 · **Open issues**: 92 · **Contributors**: 18
+- **Stars**: 3,247 · **Forks**: 92 · **Open issues**: 92 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 274 · **Open PRs**: 5 · **Closed issues**: 84 · **Open issues**: 8 · **Commits**: 509
+- **Releases**: 100 · **Merged PRs**: 274 · **Open PRs**: 4 · **Closed issues**: 84 · **Open issues**: 8 · **Commits**: 509
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 4 | 3 | 1 | 0 | 0 | 3 |
-| last60d | 2026-09-24 | 8 | 11 | 5 | 0 | 1 | 10 |
-| 90d | 2026-08-25 | 10 | 13 | 5 | 0 | 1 | 13 |
-| last180d | 2026-05-27 | 27 | 43 | 5 | 12 | 8 | 42 |
-| 360d | 2025-11-28 | 37 | 62 | 5 | 15 | 8 | 61 |
-| last720d | 2024-12-03 | 45 | 92 | 5 | 27 | 8 | 86 |
+| 30d | 2026-10-25 | 4 | 3 | 1 | 0 | 0 | 3 |
+| last60d | 2026-09-25 | 8 | 10 | 4 | 0 | 1 | 10 |
+| 90d | 2026-08-26 | 10 | 13 | 4 | 0 | 1 | 13 |
+| last180d | 2026-05-28 | 27 | 42 | 4 | 12 | 8 | 42 |
+| 360d | 2025-11-29 | 37 | 62 | 4 | 15 | 8 | 61 |
+| last720d | 2024-12-04 | 45 | 92 | 4 | 27 | 8 | 86 |
 
 ## Release assets
 
@@ -78,12 +68,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/dblab). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/dblab). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.55.2` | ✅ latest |
-| Nix unstable | `0.55.1` | ⚠️ outdated |
+| Nix unstable | `0.55.2` | ✅ latest |
 
 ## Improve this data
 
@@ -94,4 +84,4 @@ Install metadata for dblab lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:40:26Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:05:28Z._
