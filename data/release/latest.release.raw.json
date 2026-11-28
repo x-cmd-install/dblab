@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 494,
       "digest": "sha256:0933bedb28aba003adb58702c6e31991de5b160b6c9b8a7e258621f2187eb46d",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-10T20:20:52Z",
       "updated_at": "2026-11-10T20:20:52Z",
       "browser_download_url": "https://github.com/danvergara/dblab/releases/download/v0.55.2/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12490415,
       "digest": "sha256:a3f2e434d20b40c19c1730dfc40a75401732f20f10466940412fce2950a11c76",
-      "download_count": 103,
+      "download_count": 105,
       "created_at": "2026-11-10T20:20:50Z",
       "updated_at": "2026-11-10T20:20:51Z",
       "browser_download_url": "https://github.com/danvergara/dblab/releases/download/v0.55.2/dblab_0.55.2_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13031993,
       "digest": "sha256:298b1a9f43e14bc469b9377f23f822b88c94388c15fca241487ca3efb34a0662",
-      "download_count": 208,
+      "download_count": 221,
       "created_at": "2026-11-10T20:20:51Z",
       "updated_at": "2026-11-10T20:20:52Z",
       "browser_download_url": "https://github.com/danvergara/dblab/releases/download/v0.55.2/dblab_0.55.2_linux_amd64.tar.gz"
